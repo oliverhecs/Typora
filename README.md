@@ -1,4 +1,4 @@
-# Typora
+# Typora MacOS Version
 There is a initial MacOS Typora version which is free.（早期免费的Typora版本）
 
 
